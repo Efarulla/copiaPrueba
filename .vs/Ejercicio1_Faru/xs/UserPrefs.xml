@@ -1,17 +1,14 @@
-﻿<Properties StartupConfiguration="{55AA3D8E-1D18-4544-A190-81987CFC5B75}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HomeController.cs">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{55AA3D8E-1D18-4544-A190-81987CFC5B75}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Controllers/HomeController.cs" Line="20" Column="22" />
+      <File FileName="Controllers/HomeController.cs" Line="18" Column="14" />
+      <File FileName="Models/ErrorViewModel.cs" Line="9" Column="71" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Ejercicio1_Faru" expanded="True">
-            <Node name="Ejercicio1_Faru" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="HomeController.cs" selected="True" />
-              </Node>
-            </Node>
+            <Node name="Ejercicio1_Faru" expanded="True" />
           </Node>
         </State>
       </Pad>
